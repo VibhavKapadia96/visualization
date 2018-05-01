@@ -1,1 +1,2 @@
+#pip install Augmentor
 # visualization
